@@ -571,7 +571,7 @@ This project is licensed under the MIT License for open-source use. Commercial l
 
 ## Author
 
-**Osman Abdi** 
+**Osman Hassan Abdi** 
 - GitHub: [@oabdi444](https://github.com/oabdi444)
 ---
 
